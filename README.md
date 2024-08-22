@@ -4,7 +4,7 @@ Based on the provided document, here’s an outstanding and creative `README.md`
 
 # Assistive Device for Physically Disabled People - Head Mouse
 
-![Head Mouse Illustration](./images/headmouse_illustration.png)
+![Head Mouse Illustration](AssistiveDevice/results/7f8878f4-de0b-4aa3-9973-c777b8a0cfbe.JPG)
 
 ## Overview
 
